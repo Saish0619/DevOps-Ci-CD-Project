@@ -21,7 +21,5 @@
 - Version control workflow
 - Containerization
 - Automation
-  
-<img width="1920" height="1080" alt="Screenshot (188)" src="https://github.com/user-attachments/assets/5eec7326-f8d9-4c08-ab84-8bccfb583a7e" />
-
-<img width="1920" height="938" alt="Screenshot (190)" src="https://github.com/user-attachments/assets/296f450f-2268-4241-b0f4-9e0c57b1b87f" />
+<img width="1920" height="869" alt="Screenshot (190)" src="https://github.com/user-attachments/assets/6303cd53-c0f5-4d56-99a8-825a8f6368a8" />
+<img width="1920" height="1014" alt="Screenshot (188)" src="https://github.com/user-attachments/assets/d2623fe0-91c6-42f4-b91d-47f963e6ec1d" />
